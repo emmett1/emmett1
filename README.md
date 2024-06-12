@@ -21,6 +21,13 @@ Btw my active projects moved on codeberg <a href="https://codeberg.org/emmett1">
 - 💬 Ask me about anything  
 - ⚡ Fun fact: err, i dont talk to much
 
+Your donation very appreciated :smiley:
+
+<a href="https://www.buymeacoffee.com/emmett1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41"></a>
+<a href="https://ko-fi.com/emmett1" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" alt="Buy Me A Coffee" height="41"></a>
+
+
+
 <!--
 **emmett1/emmett1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
